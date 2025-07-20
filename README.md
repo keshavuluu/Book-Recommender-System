@@ -1,14 +1,21 @@
-📚 Book Recommendation System (ML-Based)
-A machine learning-based Book Recommendation System built with Flask, Pandas, and NumPy. The model uses similarity-based algorithms to recommend books, and features a lightweight web interface.
+# 📚 Book Recommendation System (ML-Based)
 
-🚀 Features
-ML-based book recommendations (e.g., cosine similarity or collaborative filtering)
+A machine learning-based Book Recommendation System built with **Flask**, **Pandas**, and **NumPy**.  
+The model uses similarity-based algorithms to recommend books, and features a lightweight web interface.
 
-Clean and simple Flask interface
+---
 
-Uses Pandas and NumPy for data preprocessing and ML logic
+## 🚀 Features
 
-🛠️ Tech Stack
-ML/Data Libraries: Pandas, NumPy
+- ML-based book recommendations (e.g., cosine similarity or collaborative filtering)
+- Clean and simple Flask interface
+- Uses Pandas and NumPy for data preprocessing and ML logic
 
-Web Framework: Flask
+---
+
+## 🛠 Tech Stack
+
+- **ML/Data Libraries:** Pandas, NumPy  
+- **Web Framework:** Flask
+
+---
